@@ -1,0 +1,6 @@
+[submodule "2395223-blogverse-frontend"]
+	path = 2395223-blogverse-frontend
+	url = https://github.com/dusly007/2395223-blogverse-frontend.git
+[submodule "2395223-blogverse-backend"]
+	path = 2395223-blogverse-backend
+	url = https://github.com/dusly007/2395223-blogverse-backend.git
